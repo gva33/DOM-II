@@ -350,3 +350,19 @@ img {
   background: #FFFFFF;
   color: #17A2B8;
 }
+
+.annoy {
+  margin-right:500px;
+}
+.zoom {  
+  transform: scale(2); 
+}
+
+.swap {
+  display:flex;
+  flex-direction: row-reverse;
+}
+
+.enlarge{
+  size:40px;
+}
